@@ -5,8 +5,8 @@ export const config: Config = {
   themeColor: "#5789f6",
   logoURL: "/images/logo.png",
   site: {
-    url: "https://www.skvad.eu/",
-    title: "SKVAD Community",
+    url: "https://www.dayzchaos.com/",
+    title: "Chaos Community",
     twitter: {
       site: "@site",
       creator: "@creator",
@@ -21,7 +21,7 @@ export const config: Config = {
   },
   pages: {
     home: {
-      title: "Home | SKVAD Community",
+      title: "Home | CHAOS Community",
       description: "Welcome to the SKVAD Community! We are a DayZ community that is dedicated to providing the best experience for our players. Join us today!",
       sections: {
         network: {
